@@ -1,4 +1,9 @@
-## Yasharth here.
+# Hi 👋, I'm Yasharth
 
-I am currently exploring Spring boot and React.
-Working on a pastebin clone with spring boot.
+☕ Java & Spring Boot  
+🧠 Learning DSA  
+🚀 Building projects
+
+### Tech
+
+![Java](https://skillicons.dev/icons?i=java,spring,cpp,mysql,git,github)
